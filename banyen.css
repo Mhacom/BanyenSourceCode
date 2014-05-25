@@ -1,0 +1,32 @@
+﻿.banyenCListLeft a {
+    margin: 5px 5px 5px 0;
+}
+
+.banyenCListRight a {
+    margin: 5px 0 5px 5px;
+}
+
+.banyenCListLeft a p.list-group-item-text {
+    padding: 5px 20px 2px 50px;
+}
+
+.banyenCListLeft a span {
+    float: left;
+}
+
+.banyenCListLeft a span label {
+    margin-right: 8px;
+}
+
+
+.banyenCListRight a p.list-group-item-text {
+    padding: 5px 20px 2px 50px;
+}
+
+.banyenCListRight a span {
+    float: left;
+}
+
+.banyenCListRight a span label {
+    margin-right: 8px;
+}
